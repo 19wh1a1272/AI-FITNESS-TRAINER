@@ -1,0 +1,29 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$1qiFZhlP59ZEsobRuyQNAOOLrZaehjDZxf0sAetirmKToB.bRH31S
+    nakul74:
+      email: nakulchamariya74@gmail.com
+      name: Nakul
+      password: $2b$12$paoAOzdT2QHfe1OpbGbCg.96nrSQbuTERvMdQwndHaQQ9RKN7Fkz6
+    raja:
+      email: 19wh1a1294@bvrithyderabad.edu.in
+      name: Chinnamwar Rajasree
+      password: $2b$12$lzVvW2WjHIrIkp1b2Q0uwOOjQ84cQ0e1N6d7KW.5oh1nvrII53ltW
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$UZk09db00LFWYYrI7FKjr.953QscU4.Tldcf.X9CL9rJHrLK70u3e
+    sreeja:
+      email: 19wh1a1269@bvrithyderabad.edu.in
+      name: srija123
+      password: $2b$12$/cM5QJFvVkrR.1.xwhsr9u4JUQ5nMyhnNRYyhPXELxiuFELHEr9Ja
+preauthorized:
+  emails:
+  - melsby@gmail.com

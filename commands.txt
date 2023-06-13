@@ -1,0 +1,3 @@
+streamlit run .\app.py
+
+also delete temp.txt whenever you are restarting the app
